@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+# Boise Willow Grace Wellness 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Official website for a nutritional therapist.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Boise Willow Grace Wellness landing page](./assets/Screen%2520Shot%25202020-10-02%2520at%252012.15.51%2520PM.png)
